@@ -8,9 +8,4 @@
 </h3>
 
 ------
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fastlane/fastlane/master/watchbuild/assets/watchbuild.png" height="110">
-</p>
-
 <h3 align="center">💎🚀 <b>watchbuild</b> has moved to the <b>fastlane</b> <a href='https://github.com/fastlane/fastlane/tree/master/watchbuild'>main repo</a> 🚀💎</h2>
